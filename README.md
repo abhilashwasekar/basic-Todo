@@ -1,6 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##basic code
+
+##This project is contents
+
+Backend:-
+Express ap
+Zod for validation
+mongoose for mongo connection
+MongoDB as the Database
+
+2 components
+1. create Todo
+2. render Todo
+Frontend:-
+using React
+
 
 Currently, two official plugins are available:
 
